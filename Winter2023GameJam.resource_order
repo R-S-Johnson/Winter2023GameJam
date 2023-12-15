@@ -1,11 +1,12 @@
 {
   "FolderOrderSettings": [
-    {"name":"Paths","order":1,"path":"folders/Paths.yy",},
-    {"name":"Shaders","order":2,"path":"folders/Shaders.yy",},
-    {"name":"Timelines","order":3,"path":"folders/Timelines.yy",},
     {"name":"Animation Curves","order":4,"path":"folders/Animation Curves.yy",},
     {"name":"Extensions","order":5,"path":"folders/Extensions.yy",},
     {"name":"Particle Systems","order":6,"path":"folders/Particle Systems.yy",},
+    {"name":"Paths","order":1,"path":"folders/Paths.yy",},
+    {"name":"Shaders","order":2,"path":"folders/Shaders.yy",},
+    {"name":"Timelines","order":3,"path":"folders/Timelines.yy",},
+    {"name":"SnowChildLevels","order":3,"path":"folders/Rooms/SnowChildLevels.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_touch_button_right","order":1,"path":"objects/obj_touch_button_right/obj_touch_button_right.yy",},
@@ -76,6 +77,7 @@
     {"name":"snd_music_lose","order":1,"path":"sounds/snd_music_lose/snd_music_lose.yy",},
     {"name":"spr_leaf","order":4,"path":"sprites/spr_leaf/spr_leaf.yy",},
     {"name":"obj_touch_button_jump","order":3,"path":"objects/obj_touch_button_jump/obj_touch_button_jump.yy",},
+    {"name":"ts_winter","order":3,"path":"tilesets/ts_winter/ts_winter.yy",},
     {"name":"obj_effect_parent","order":1,"path":"objects/obj_effect_parent/obj_effect_parent.yy",},
     {"name":"spr_mushroom_1","order":6,"path":"sprites/spr_mushroom_1/spr_mushroom_1.yy",},
     {"name":"obj_block_brick","order":1,"path":"objects/obj_block_brick/obj_block_brick.yy",},
@@ -98,6 +100,7 @@
     {"name":"snd_dirt_block_hit_03","order":5,"path":"sounds/snd_dirt_block_hit_03/snd_dirt_block_hit_03.yy",},
     {"name":"snd_land_01","order":3,"path":"sounds/snd_land_01/snd_land_01.yy",},
     {"name":"seq_touch_controls","order":4,"path":"sequences/seq_touch_controls/seq_touch_controls.yy",},
+    {"name":"spr_tileset_winter","order":3,"path":"sprites/spr_tileset_winter/spr_tileset_winter.yy",},
     {"name":"spr_game_logo","order":2,"path":"sprites/spr_game_logo/spr_game_logo.yy",},
     {"name":"spr_end_gate_particles","order":2,"path":"sprites/spr_end_gate_particles/spr_end_gate_particles.yy",},
     {"name":"snd_health_pickup_01","order":8,"path":"sounds/snd_health_pickup_01/snd_health_pickup_01.yy",},
