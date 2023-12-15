@@ -1,5 +1,5 @@
 // This checks if the player is currently in knockback, after being hit by an enemy.
-if (in_knockback)
+if (in_knockback or not active)
 {
 	// In that case we exit/stop the event here, so the player can't move.
 	exit;
