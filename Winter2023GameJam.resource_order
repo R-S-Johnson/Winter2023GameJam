@@ -75,6 +75,7 @@
     {"name":"obj_coin","order":1,"path":"objects/obj_coin/obj_coin.yy",},
     {"name":"snd_music_lose","order":1,"path":"sounds/snd_music_lose/snd_music_lose.yy",},
     {"name":"spr_leaf","order":4,"path":"sprites/spr_leaf/spr_leaf.yy",},
+    {"name":"obj_player2","order":3,"path":"objects/obj_player2/obj_player2.yy",},
     {"name":"obj_touch_button_jump","order":3,"path":"objects/obj_touch_button_jump/obj_touch_button_jump.yy",},
     {"name":"obj_effect_parent","order":1,"path":"objects/obj_effect_parent/obj_effect_parent.yy",},
     {"name":"spr_mushroom_1","order":6,"path":"sprites/spr_mushroom_1/spr_mushroom_1.yy",},

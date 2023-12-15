@@ -2,6 +2,9 @@
 // It's in pixels per second.
 move_speed = 8;
 
+// multiple controllable entities need an on/off toggle
+controlled = false;
+
 // This is the friction value applied to the character's horizontal movement every frame.
 // This is applied in the Begin Step event. The friction is reduced when the character is in mid-air.
 friction_power = 0.7;

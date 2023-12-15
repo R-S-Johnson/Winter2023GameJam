@@ -9,7 +9,7 @@
     "children": [],
     "name": "Default",
   },
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notes","folderPath":"folders/Notes.yy",},
@@ -160,6 +160,7 @@
     {"id":{"name":"obj_coin","path":"objects/obj_coin/obj_coin.yy",},},
     {"id":{"name":"snd_music_lose","path":"sounds/snd_music_lose/snd_music_lose.yy",},},
     {"id":{"name":"spr_leaf","path":"sprites/spr_leaf/spr_leaf.yy",},},
+    {"id":{"name":"obj_player2","path":"objects/obj_player2/obj_player2.yy",},},
     {"id":{"name":"obj_touch_button_jump","path":"objects/obj_touch_button_jump/obj_touch_button_jump.yy",},},
     {"id":{"name":"obj_effect_parent","path":"objects/obj_effect_parent/obj_effect_parent.yy",},},
     {"id":{"name":"spr_end_gate","path":"sprites/spr_end_gate/spr_end_gate.yy",},},

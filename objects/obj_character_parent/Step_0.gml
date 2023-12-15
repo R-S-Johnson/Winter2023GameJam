@@ -33,8 +33,8 @@ repeat (_move_count)
 
 // We now repeat all of the previous steps to check for collisions on the Y axis.
 // Everything is the same, but vel_x is replaced by vel_y, and the check_collision function takes a Y value (its second argument).
-var _move_count = abs(vel_y);
-var _move_once = sign(vel_y);
+_move_count = abs(vel_y);
+_move_once = sign(vel_y);
 
 // This runs a loop, which runs 'move_count' times. All actions attached to this are repeated that many amount of times.
 repeat (_move_count)
