@@ -1,11 +1,11 @@
 {
   "FolderOrderSettings": [
-    {"name":"Paths","order":1,"path":"folders/Paths.yy",},
-    {"name":"Shaders","order":2,"path":"folders/Shaders.yy",},
-    {"name":"Timelines","order":3,"path":"folders/Timelines.yy",},
     {"name":"Animation Curves","order":4,"path":"folders/Animation Curves.yy",},
     {"name":"Extensions","order":5,"path":"folders/Extensions.yy",},
     {"name":"Particle Systems","order":6,"path":"folders/Particle Systems.yy",},
+    {"name":"Paths","order":1,"path":"folders/Paths.yy",},
+    {"name":"Shaders","order":2,"path":"folders/Shaders.yy",},
+    {"name":"Timelines","order":3,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_touch_button_right","order":1,"path":"objects/obj_touch_button_right/obj_touch_button_right.yy",},
@@ -13,6 +13,7 @@
     {"name":"spr_cloud_small","order":4,"path":"sprites/spr_cloud_small/spr_cloud_small.yy",},
     {"name":"spr_touch_jump","order":2,"path":"sprites/spr_touch_jump/spr_touch_jump.yy",},
     {"name":"spr_front_tree_2","order":2,"path":"sprites/spr_front_tree_2/spr_front_tree_2.yy",},
+    {"name":"obj_portcullis","order":4,"path":"objects/obj_portcullis/obj_portcullis.yy",},
     {"name":"spr_vines_1","order":4,"path":"sprites/spr_vines_1/spr_vines_1.yy",},
     {"name":"rm_end","order":2,"path":"rooms/rm_end/rm_end.yy",},
     {"name":"obj_persistent_manager","order":3,"path":"objects/obj_persistent_manager/obj_persistent_manager.yy",},
@@ -39,6 +40,7 @@
     {"name":"snd_amb_trees","order":2,"path":"sounds/snd_amb_trees/snd_amb_trees.yy",},
     {"name":"spr_block_coins_hit_animation","order":2,"path":"sprites/spr_block_coins_hit_animation/spr_block_coins_hit_animation.yy",},
     {"name":"spr_tileset_cave","order":2,"path":"sprites/spr_tileset_cave/spr_tileset_cave.yy",},
+    {"name":"portcullis","order":4,"path":"sprites/portcullis/portcullis.yy",},
     {"name":"spr_part_character_walk","order":2,"path":"sprites/spr_part_character_walk/spr_part_character_walk.yy",},
     {"name":"spr_vines_3","order":6,"path":"sprites/spr_vines_3/spr_vines_3.yy",},
     {"name":"obj_hud_coins","order":1,"path":"objects/obj_hud_coins/obj_hud_coins.yy",},
