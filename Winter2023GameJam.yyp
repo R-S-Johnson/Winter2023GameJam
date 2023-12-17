@@ -207,6 +207,7 @@
     {"id":{"name":"spr_tileset_winter","path":"sprites/spr_tileset_winter/spr_tileset_winter.yy",},},
     {"id":{"name":"spr_game_logo","path":"sprites/spr_game_logo/spr_game_logo.yy",},},
     {"id":{"name":"spr_end_gate_particles","path":"sprites/spr_end_gate_particles/spr_end_gate_particles.yy",},},
+    {"id":{"name":"rm_the_hare","path":"rooms/rm_the_hare/rm_the_hare.yy",},},
     {"id":{"name":"snd_health_pickup_01","path":"sounds/snd_health_pickup_01/snd_health_pickup_01.yy",},},
     {"id":{"name":"snd_dirt_block_hit_02","path":"sounds/snd_dirt_block_hit_02/snd_dirt_block_hit_02.yy",},},
     {"id":{"name":"obj_touch_button_left","path":"objects/obj_touch_button_left/obj_touch_button_left.yy",},},
@@ -256,11 +257,12 @@
     {"id":{"name":"rm_level_1","path":"rooms/rm_level_1/rm_level_1.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"rm_child_awakens","path":"rooms/rm_child_awakens/rm_child_awakens.yy",},},
+    {"roomId":{"name":"rm_the_hare","path":"rooms/rm_the_hare/rm_the_hare.yy",},},
+    {"roomId":{"name":"rm_end","path":"rooms/rm_end/rm_end.yy",},},
     {"roomId":{"name":"rm_level_1","path":"rooms/rm_level_1/rm_level_1.yy",},},
     {"roomId":{"name":"rm_level_2","path":"rooms/rm_level_2/rm_level_2.yy",},},
-    {"roomId":{"name":"rm_end","path":"rooms/rm_end/rm_end.yy",},},
+    {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
