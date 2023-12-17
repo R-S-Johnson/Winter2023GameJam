@@ -3,7 +3,7 @@
 move_speed = 8;
 
 // multiple controllable entities need an on/off toggle
-controlled = false;
+active = false;
 
 // This is the friction value applied to the character's horizontal movement every frame.
 // This is applied in the Begin Step event. The friction is reduced when the character is in mid-air.

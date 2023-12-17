@@ -74,7 +74,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.11.1.129",
+    "IDEVersion": "2023.11.0.121",
   },
   "resources": [
     {"id":{"name":"obj_touch_button_right","path":"objects/obj_touch_button_right/obj_touch_button_right.yy",},},
@@ -164,9 +164,9 @@
     {"id":{"name":"snd_footstep_03","path":"sounds/snd_footstep_03/snd_footstep_03.yy",},},
     {"id":{"name":"snd_amb_cave_02","path":"sounds/snd_amb_cave_02/snd_amb_cave_02.yy",},},
     {"id":{"name":"obj_coin","path":"objects/obj_coin/obj_coin.yy",},},
+    {"id":{"name":"obj_player2","path":"objects/obj_player2/obj_player2.yy",},},
     {"id":{"name":"snd_music_lose","path":"sounds/snd_music_lose/snd_music_lose.yy",},},
     {"id":{"name":"spr_leaf","path":"sprites/spr_leaf/spr_leaf.yy",},},
-    {"id":{"name":"obj_player2","path":"objects/obj_player2/obj_player2.yy",},},
     {"id":{"name":"obj_touch_button_jump","path":"objects/obj_touch_button_jump/obj_touch_button_jump.yy",},},
     {"id":{"name":"ts_winter","path":"tilesets/ts_winter/ts_winter.yy",},},
     {"id":{"name":"obj_effect_parent","path":"objects/obj_effect_parent/obj_effect_parent.yy",},},

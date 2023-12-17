@@ -1,9 +1,6 @@
 // This runs the Create event of the parent, ensuring the player gets all variables from the character parent.
 event_inherited();
 
-// controllable character default starter
-controlled = true;
-
 // This variable stores the number of coins the player has collected.
 coins = 0;
 
@@ -12,3 +9,6 @@ in_knockback = false;
 
 // This is the object that replaces the player once it is defeated.
 defeated_object = obj_player_defeated;
+
+// default player
+active = true;
