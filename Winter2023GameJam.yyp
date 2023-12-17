@@ -79,6 +79,7 @@
     {"id":{"name":"obj_touch_button_right","path":"objects/obj_touch_button_right/obj_touch_button_right.yy",},},
     {"id":{"name":"spr_hurt_zone","path":"sprites/spr_hurt_zone/spr_hurt_zone.yy",},},
     {"id":{"name":"obj_effect_jump","path":"objects/obj_effect_jump/obj_effect_jump.yy",},},
+    {"id":{"name":"obj_moveplatform","path":"objects/obj_moveplatform/obj_moveplatform.yy",},},
     {"id":{"name":"spr_front_tree_3","path":"sprites/spr_front_tree_3/spr_front_tree_3.yy",},},
     {"id":{"name":"spr_cloud_small","path":"sprites/spr_cloud_small/spr_cloud_small.yy",},},
     {"id":{"name":"spr_touch_jump","path":"sprites/spr_touch_jump/spr_touch_jump.yy",},},
